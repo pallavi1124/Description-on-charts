@@ -1,0 +1,5 @@
+Here we can see which chart is more appropiate for visualizing two variables
+If Y is Numerical and X is also Numrical = Scatterplot
+If Y is Numerical and X is Categorical = Box Plot
+If Y is Categorical and X is also Categorical = Stacked Bar chart or Cross tabulation
+If Y is Categorical and X is  Numrical = Box Plot Groups
